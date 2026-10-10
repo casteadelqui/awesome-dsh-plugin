@@ -1,0 +1,6 @@
+url: https://github.com/casteadelqui/dsh-go
+name: casteadelqui/dsh-go
+category: fun
+description:
+  en: A Go (Weiqi, Baduk) mode for DeepSeek Harness - a board tab in the conversation view, a rules engine covering captures, ko and area scoring, five AI difficulty levels, and a tutor that plays against you and comments on each move.
+  zh: 给 DeepSeek Harness 的围棋模式——会话里的棋盘标签页、覆盖提子与打劫与数子的规则引擎、五档难度 AI，以及一个一边和你下棋一边点评每一手的围棋老师。
